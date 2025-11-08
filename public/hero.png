@@ -1,0 +1,9 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0a0a0a"/>
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="white" text-anchor="middle">Market Breakouts</text>
+  <text x="600" y="350" font-family="Arial, sans-serif" font-size="40" fill="#888888" text-anchor="middle">Stocks &amp; Crypto on Base</text>
+  <circle cx="300" cy="450" r="30" fill="#22c55e"/>
+  <text x="340" y="465" font-family="Arial, sans-serif" font-size="30" fill="#22c55e">Breakouts</text>
+  <circle cx="700" cy="450" r="30" fill="#ef4444"/>
+  <text x="740" y="465" font-family="Arial, sans-serif" font-size="30" fill="#ef4444">Breakdowns</text>
+</svg>

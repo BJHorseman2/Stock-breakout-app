@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIn0",
+    "payload": "eyJkb21haW4iOiJ5b3VyZG9tYWluLmNvbSJ9",
+    "signature": "MHg..."
+  },
+  "frame": {
+    "version": "1",
+    "name": "Market Breakouts",
+    "iconUrl": "https://yourdomain.com/icon.png",
+    "splashImageUrl": "https://yourdomain.com/splash.png",
+    "splashBackgroundColor": "#0a0a0a",
+    "homeUrl": "https://yourdomain.com",
+    "imageUrl": "https://yourdomain.com/hero.png",
+    "buttonTitle": "View Breakouts",
+    "description": "Track daily breakouts and breakdowns for stocks and cryptocurrencies on Base"
+  }
+}
